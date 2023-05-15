@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//span[@class='srp-format-tabs-h2'])[1]"
+}

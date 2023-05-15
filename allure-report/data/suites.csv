@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 15 00:19:08 ART 2023","Mon May 15 00:19:08 ART 2023","167","","Search for products on a Website: As a user, I can search a product on ebay","","","","Then A list of batteries is displayed on the screen",""
+"passed","Mon May 15 00:19:04 ART 2023","Mon May 15 00:19:06 ART 2023","2146","","Search for products on a Website: As a user, I can search a product on ebay","","","","When I search the Pilas in the search field",""
+"passed","Mon May 15 00:19:04 ART 2023","Mon May 15 00:19:09 ART 2023","4885","","Search for products on a Website: As a user, I can search a product on ebay","","","","Given I am on the home page of ebay",""
+"passed","Mon May 15 00:19:09 ART 2023","Mon May 15 00:19:09 ART 2023","0","","Search for products on a Website: As a user, I can search a product on ebay","","","","",""
