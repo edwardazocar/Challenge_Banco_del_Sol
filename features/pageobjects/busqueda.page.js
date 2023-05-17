@@ -12,8 +12,8 @@ class Busquedapage {
 
    //Actions
    
-   async hacerLaBusqueda(Pilas) {
-    await this.inputBuscarArticulos.setValue(Pilas);
+   async hacerLaBusqueda(product) {
+    await this.inputBuscarArticulos.setValue(product);
     await this.buttonSubmit.click();    
    }
 

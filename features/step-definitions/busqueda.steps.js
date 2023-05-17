@@ -9,8 +9,8 @@ Given(/^I am on the home page of ebay$/, async () => {
     page.openHomePage();
 });
 
-When(/^I search the (\w+) in the search field$/, async (Pilas) => {
-    await Busquedapage.hacerLaBusqueda(Pilas)
+When(/^I search the (\w+) in the search field$/, async (product) => {
+    await Busquedapage.hacerLaBusqueda(product)
 });
 
 Then(/^A list of batteries is displayed on the screen$/, async () => {
